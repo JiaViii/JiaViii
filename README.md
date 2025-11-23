@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img
+    src="/avatar.jpg"
+    alt="JiaViii avatar"
+    width="180"
+    height="180"
+    style="border-radius:50%; border:5px solid #58a6ff; box-shadow: 0 0 20px rgba(88,166,255,0.5);"
+  />
+  <br />
+  <br />
 
-<!--
-**JiaViii/JiaViii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&center=true&pause=1000&color=58a6ff&width=800&lines=Welcome!+;Get+to+know+JiaViii.;Maybe+we%E2%80%99ll+build+something+great+together.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+  <br />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>⚡ Xidian University</strong></p>
+<p><strong>😄 Graduate student in artificial intelligence</strong></p>
+<p><strong>🌱 Currently learning CPP</strong></p>
