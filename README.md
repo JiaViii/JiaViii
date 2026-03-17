@@ -11,4 +11,3 @@
 
 <p><strong>⚡ Xidian University</strong></p>
 <p><strong>😄 Graduate student in artificial intelligence</strong></p>
-<p><strong>🌱 Currently learning CPP</strong></p>
